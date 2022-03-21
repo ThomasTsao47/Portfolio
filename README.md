@@ -4,6 +4,7 @@
 - 使用工具: Python (beautifulsoup, requests, re, pandas, time, random)
 - 爬取欄位資料: [經理人姓名, 性別, 學歷]，[經理人, 時間, 期間(月), 操作績效(%), 台股績效(%)]，[基金類型, 基金名稱, 基金統編, 手續費, 保管費]
 
+![基金類型](images/fund_category.png)
 ![經理人資料 - 範例](images/FundManager_info_example.png)
 
 # Project 2 - Sales analysis
