@@ -12,6 +12,6 @@
 
 ![基金資料 - 範例](images/Fund_info_example.png)
 
-# Project 2 - Sales analysis
+# [Project 2 - Sales analysis]()
 - 待增加
    
