@@ -6,6 +6,7 @@
 
 ![基金類型](images/fund_category.png)
 ![經理人資料 - 範例](images/FundManager_info_example.png)
+![基金資料 - 範例](images/Fund_info_example.png)
 
 # Project 2 - Sales analysis
 - 待增加
