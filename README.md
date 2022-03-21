@@ -3,7 +3,8 @@
 - 使用工具: Python (beautifulsoup, requests, re, pandas, time, random)
 - 參考文件: [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - 爬取數據來源: [MoneyDJ理財網](https://www.moneydj.com/funddj/yb/YP301000.djhtm)
-- 爬取欄位資料: [經理人姓名, 性別, 學歷]，[經理人, 時間, 期間(月), 操作績效(%), 台股績效(%)]，[基金類型, 基金名稱, 基金統編, 手續費, 保管費]
+- 爬取資料: [經理人姓名, 性別, 學歷]，[經理人, 時間, 期間(月), 操作績效(%), 台股績效(%)]，[基金類型, 基金名稱, 基金統編, 手續費, 保管費]
+- 簡述統計: 資料筆數(9455)，基金檔數(3101)，基金人個數(1490) 
 
 ![基金類型](images/fund_category.png)
 
