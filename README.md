@@ -12,6 +12,7 @@
 
 ![基金資料 - 範例](images/Fund_info_example.png)
 
+
 # [Project 2 - Sales analysis](https://github.com/ThomasTsao47/Portfolio/blob/main/Project%202%20-%20Sales%20analysis.ipynb)
 - 專案介紹: 探索一份2019年在美國的3C產品銷售狀況的資料集，並從中回答商業問題  
 - 使用工具: Python (pandas, matplotlib, glob, combinations, Counter)
