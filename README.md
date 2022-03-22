@@ -19,4 +19,9 @@
 - 參考資源: [KeithGalli/Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks)
 - 數據來源: [KeithGalli/Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
 - 資料欄位: Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address
-   
+
+![資料集內容](images/sales_example.png)
+
+![資料分析流程](images/Contents.png)
+
+
