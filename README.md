@@ -16,7 +16,6 @@
 # [Project 2 - Sales analysis](https://github.com/ThomasTsao47/Portfolio/blob/main/Project%202%20-%20Sales%20analysis.ipynb)
 - 專案介紹: 探索一份2019年在美國的3C產品銷售狀況的資料集，並從中回答商業問題  
 - 使用工具: Python (pandas, matplotlib, glob, combinations, Counter)
-- 參考資源: [KeithGalli/Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks)
 - 數據來源: [KeithGalli/Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
 - 資料欄位: Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address
 
