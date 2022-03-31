@@ -24,3 +24,14 @@
 ![資料分析流程](images/Contents.png)
 
 
+# [Project 3 - Predicting Credit Card Approvals](https://github.com/ThomasTsao47/Portfolio/blob/main/Project%203%20-%20Predicting%20Credit%20Card%20Approvals.ipynb)
+- 專案介紹: 現代人向商業銀行申請信用卡似乎已成常態。然而，申請人可能因某些原因而被拒絕，例如不良貸款紀錄、低收入水平、有其他負債等。傳統利用人工查核的方式不僅容易出錯且耗時，還產生高額人力成本。如今，因科技的進步，使得很多商業銀行想要採用 AI 來實現信用卡審核自動化。因此，本專案將採用 機器學習 構建一個信用卡審核預測器，以滿足銀行需求。
+- 使用工具: Python (numpy, pandas, sklearn)
+- 數據來源: [UCI ML Repository - Credit Approval Data Set](http://archive.ics.uci.edu/ml/datasets/credit+approval)
+- 資料欄位說明: 由於信用卡申請的相關數據牽涉個資問題，所以數據集的貢獻者匿名了特徵名稱。
+
+![資料集內容](images/CreditCard_data.png)
+
+![資料分析流程](images/CreditCard_Contents.png)
+
+
