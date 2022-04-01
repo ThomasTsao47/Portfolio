@@ -23,7 +23,7 @@
 
 ![資料集內容](images/sales_example.png)
 
-![資料分析流程](images/Contents.png)
+![資料分析流程]()
 
 
 # [Project 3 - Predicting Credit Card Approvals](https://github.com/ThomasTsao47/Portfolio/blob/main/Project%203%20-%20Predicting%20Credit%20Card%20Approvals.ipynb)
@@ -34,6 +34,6 @@
 
 ![資料集內容](images/CreditCard_data.png)
 
-![資料分析流程](images/CreditCard_Contents.png)
+![資料分析流程]()
 
 
