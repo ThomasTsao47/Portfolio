@@ -1,3 +1,9 @@
+我的 Portfolio 包含 3 個 projects，每個 project 主要展示的技能面相如下 :
+- Project 1 : 資料收集 (Web Scraping) 
+- Project 2 : 資料清洗  & 分析 & 視覺化 & 回答商業問題  
+- Project 3 : 資料預處理(Preprocessing) & 建模(Modeling) & 調參(Fine-tuning)
+
+
 # [Project 1 - Web scraping (crawling the MoneyDJ website's fund and fund manager data)](https://github.com/ThomasTsao47/DataAnalysis_Projects/blob/main/Project%201%20-%20Web%20scraping.py)
 - 專案動機: 碩士論文所需的部分基金及基金經理人的特徵資料無法從現有財金資料庫取得，故善用網路爬蟲套件收集 MoneyDJ 網站所有國內基金數據來達成此需求
 - 使用工具: Python (beautifulsoup, requests, re, pandas, time, random)
