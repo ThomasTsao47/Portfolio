@@ -18,7 +18,7 @@
 # [Project 2 - Sales analysis](https://github.com/ThomasTsao47/Portfolio/blob/main/Project%202%20-%20Sales%20analysis.ipynb)
 - 專案介紹: 探索一份2019年在美國的3C產品銷售狀況的資料集，並從中回答商業問題  
 - 使用工具: Python (pandas, matplotlib, glob, combinations, Counter)
-- 數據來源: [KeithGalli/Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
+- 數據取得: [Sales Data](https://github.com/ThomasTsao47/Portfolio/tree/main/data/Sales_data)
 - 資料欄位: Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address
 
 ![資料集內容](images/sales_example.png)
@@ -29,7 +29,7 @@
 # [Project 3 - Predicting Credit Card Approvals](https://github.com/ThomasTsao47/Portfolio/blob/main/Project%203%20-%20Predicting%20Credit%20Card%20Approvals.ipynb)
 - 專案介紹: 現代人向商業銀行申請信用卡似乎已成常態。然而，申請人可能因某些原因而被拒絕，例如不良貸款紀錄、低收入水平、有其他負債等。傳統利用人工查核的方式不僅容易出錯且耗時，還產生高額人力成本。如今，因科技的進步，使得很多商業銀行想要採用 AI 來實現信用卡審核自動化。因此，本專案將採用 機器學習 構建一個信用卡審核預測器，以滿足銀行需求。
 - 使用工具: Python (numpy, pandas, sklearn)
-- 數據來源: [UCI ML Repository - Credit Approval Data Set](http://archive.ics.uci.edu/ml/datasets/credit+approval)
+- 數據取得: [UCI ML Repository - Credit Approval Data Set](http://archive.ics.uci.edu/ml/datasets/credit+approval)
 - 資料欄位說明: 由於信用卡申請的相關數據牽涉個資問題，所以數據集的貢獻者匿名了特徵名稱。
 
 ![資料集內容](images/CreditCard_data.png)
